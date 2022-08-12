@@ -1,0 +1,12 @@
+LTPT,Lap Trinh Python,300,Michael,2019,Hoc Thuat,10,2
+CNH,Can Nha Hoang,100,Sweet Pea,2013,Kinh Di,19,4
+GLQ,Giot Le Quy,300,Jeffery Deaver,2022,Kinh Di,30,0
+GK,Goc Khuat,190,Alice,2021,Kinh Di,17,3
+NL,Nguoi La,180,Leila Slimani,2019,Kinh Di,30,2
+NM,Nuoc Mat,230,Le Thi Hoa,2019,Kinh Di,10,0
+QTD,Qua Tim Den,320,Honey Bager,2019,Kinh Di,17,0
+VS,Vi Sao,364,John Grenn,2014,Lang Man,3,1
+J01,Java,505,Will,2013,Lap Trinh,20,0
+LT1,Lap Trinh C,300,John,2019,Lap Trinh,8,0
+EZM,Enzyme,224,Hiroma,2016,Suc Khoe,4,0
+COB,Cam On Ban,761,Fin Cara Doc,2010,Tieu Thuyet,10,1

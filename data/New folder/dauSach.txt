@@ -1,0 +1,23 @@
+LTPT,Lap Trinh Python,300,Michael,2019,Hoc Thuat,10,2
+CNH,Can Nha Hoang,100,Sweet Pea,2013,Kinh Di,19,4
+GLQ,Giot Le Quy,300,Jeffery Deaver,2022,Kinh Di,30,0
+GK,Goc Khuat,190,Alice,2021,Kinh Di,17,2
+NL,Nguoi La,180,Leila Slimani,2019,Kinh Di,30,2
+NM,Nuoc Mat,230,Le Thi Hoa,2019,Kinh Di,10,0
+QTD,Qua Tim Den,320,Honey Bager,2019,Kinh Di,17,0
+VS,Vi Sao,364,John Grenn,2014,Lang Man,3,0
+J01,Java,505,Will,2013,Lap Trinh,20,0
+LT1,Lap Trinh C,300,John,2019,Lap Trinh,8,0
+EZM,Enzyme,224,Hiroma,2016,Suc Khoe,4,0
+GD,Gia Dinh,211,Grainne,2019,Thieu Nhi,17,0
+LDT,Lau Dai Tuyet,120,Fuzy Beager,2019,Thieu Nhi,10,0
+SM,Sac Mau,147,Rum Rum,2019,Thieu Nhi,17,0
+COB,Cam On Ban,761,Fin Cara Doc,2010,Tieu Thuyet,10,1
+CGM,Con Gio Mua,465,Jason,2013,Tieu Thuyet,17,0
+CT,Con Tim,566,Vo Thuy Kieu,2014,Tieu Thuyet,30,0
+GNM,Giot Nuoc Mat,568,Ngo Thanh,2012,Tieu Thuyet,12,0
+HTM,Hon Tren May,514,Ngo Thanh,2012,Tieu Thuyet,5,0
+KPP,Ke Pha Phach,745,Nguyen Dang,2009,Tieu Thuyet,10,0
+LTC,La Thu Cuoi,750,Christopher,2011,Tieu Thuyet,14,0
+MG,Mot Giay,512,Tran Van Tien,2005,Tieu Thuyet,70,0
+TTL,Tham Lam,631,Emsay,2003,Tieu Thuyet,10,0
